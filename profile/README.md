@@ -19,5 +19,5 @@ A Java library for Bukkit/Spigot/Paper/Folia plugins to easily convert hex forma
 <br>
   
 ### ⬆️ Spigot Update Checker
-A Java library for Bukkit/Spigot/Paper/Folia plugins to easily check for updates without requiring the developer to create their own version checking.
+A Java library for Bukkit/Spigot/Paper/Folia plugins to easily check for updates without requiring the developer to create their own version checking.  
 🔗 [Spigot Update Checker](https://github.com/lightlibs/SpigotUpdateChecker)  
